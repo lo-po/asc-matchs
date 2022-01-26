@@ -6,9 +6,24 @@
     "start": "next start"
   },
   "dependencies": {
+    "@draft-js-plugins/divider": "^4.1.1",
+    "@draft-js-plugins/editor": "^4.1.0",
+    "@draft-js-plugins/image": "^4.1.2",
+    "@ethersproject/providers": "^5.5.2",
+    "@ethersproject/units": "^5.5.0",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "@web3-react/walletconnect-connector": "^6.2.10",
+    "dayjs": "^1.10.7",
+    "decorate-component-with-props": "^1.1.0",
+    "draft-convert": "^2.1.12",
+    "draft-js": "^0.11.7",
     "next": "latest",
+    "next-seo": "^4.28.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "sass": "^1.49.0"
   },
   "devDependencies": {
     "@types/node": "17.0.4",
